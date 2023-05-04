@@ -48,3 +48,5 @@ public class WordFrequencies {
       //         Question - Do you see a pattern emerging?
 
       // STEP 5: Turn your code in Step 3 into a loop that checks every word in the ArrayList
+
+      //test
